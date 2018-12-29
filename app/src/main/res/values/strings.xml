@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Cricket Chirps Temperature</string>
+    <string name="Description">Did you know that you can tell the temperature by counting the chirps of a cricket? Just count the number of chirps in 25 seconds!</string>
+    <string name="numChirpsText">Please enter the number of chirps…</string>
+    <string name="submit">Submit</string>
+    <string name="thermImage">Thermometer Image</string>
+</resources>
